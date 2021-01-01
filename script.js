@@ -12,7 +12,7 @@ const textBox = document.getElementById('text-box');
 //     textBox.style.backgroundColor = 'rgb(255 255 255 / 50%)';
 //     toggleIcon.children[0].textContent = 'Dark Mode';
 //     toggleIcon.children[1].classList.replace('fa-sun', 'fa-moon');
-}
+// }
 
 // Dark or Light Images
 function imageMode(color) {
